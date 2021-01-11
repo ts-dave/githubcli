@@ -1,0 +1,2 @@
+# TODO: click on create repository button to create repository
+# TOD0: clone repository onto local machine in folder where cli was called from
