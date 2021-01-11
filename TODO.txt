@@ -1,2 +1,5 @@
 # TODO: click on create repository button to create repository
-# TOD0: clone repository onto local machine in folder where cli was called from
+# TODO: clone repository onto local machine in folder where cli was called from
+
+
+# TODO: DEBUG: when i ran the program, I get the error message "A device attached to the system is not functioning. (0x1F)". Could be PC specific problem.
