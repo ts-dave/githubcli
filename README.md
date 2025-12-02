@@ -35,7 +35,7 @@ Usage:
     github -n <repo_name>
 
 
-## Contributing to WebSearchCLI
+## Contributing to githubCLI
 To contribute to WebSearchCLI, follow these steps:
 
 1. Fork this repository.
